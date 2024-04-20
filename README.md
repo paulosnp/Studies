@@ -1,1 +1,2 @@
-# Atividade de selecão de imóveis por tipo.
+# 💻Estudo
+Algums exercicios de estudo.
