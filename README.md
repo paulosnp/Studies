@@ -1,1 +1,1 @@
-# Property-Type
+# Atividade de selecão de imóveis por tipo.
